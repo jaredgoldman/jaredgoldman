@@ -8,4 +8,5 @@ I'm also starting to explore native software dvelopment computer science, data s
 :drum: I'm a musician I'm obsessed with jazz and klezmer music  
 :office: I currently work maintaining the Canadian Broadcasting Corporation's web infrastructure  
 :keyboard: Ask me about TS/JS, python, Java, React, PHP, HTML/CSS, meditation, running, cycling and powerlifting!  
-:mailbox: Feel free to contact me at jaredgoldmandev@gmail.com
+:mailbox: Feel free to contact me at jaredgoldmandev@gmail.com  
+:muscle: I'm currently building a portfolio site, check back soon!  
