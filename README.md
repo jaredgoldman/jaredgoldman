@@ -9,6 +9,6 @@ I'm also starting to explore native software dvelopment computer science, data s
 :computer: I have recently switched from MacOS to Arch Linux w/ i3-wm and am never going back.    
 :drum: I'm a musician and I'm obsessed with jazz, klezmer music and vintage cymbals   
 :office: I currently work building and maintaining the [Canadian Broadcasting Corporation](cbc.ca)'s web infrastructure  
-:keyboard: Ask me about TS/JS, python, Java, React, PHP, HTML/CSS, meditation, running, cycling and powerlifting!  
+:keyboard: Ask me about TS/JS, python, Java, React, PHP, HTML/CSS, Linux, meditation, running, cycling and powerlifting!  
 :mailbox: Feel free to contact me at jaredgoldmandev@gmail.com  
 :muscle: I'm finally building a portfolio site, check back soon!  
