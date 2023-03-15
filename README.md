@@ -1,7 +1,7 @@
 ### Hey folks, :wave:
 
 My name is **Jared Goldman** and I'm a full-stack software developer and open-source contributor originating from Canada. After being fascinated with computers and tech my entire life, I finally started coding during the pandemic. I quickly fell down a deep, beautiful rabbit hole and continue to have my mind blown on daily basis keeping up with the latest in web and software dev. I love the web, creating beautiful dynamic UIs and building scalable backend infrastructure and
-I'm also starting to explore native software development computer science, data structures and alogrithms. My skillset includes TS/JS, Python, Java, React (Next.Js, Gatsby), PHP, HTML/CSS, Svelte, ExpressJS, Postgres, MongoDb, Docker, Discord.js and AWS (EC2, Amplify). Nice to be acquainted!
+I'm also starting to explore native software development computer science, data structures and alogrithms. My skillset includes Typescript/Javascript, Python, Java, React (Next.Js, Gatsby), PHP, HTML/CSS, Svelte, ExpressJS, Postgres, MongoDb, Docker, Discord.js and AWS (EC2, Amplify). Nice to be acquainted!
 
 #### What I'm up to:
 
