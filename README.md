@@ -11,4 +11,4 @@ I'm also starting to explore native software development computer science, data 
 :office: I currently work building and maintaining the [Canadian Broadcasting Corporation](cbc.ca)'s web infrastructure  
 :keyboard: Ask me about TS/JS, python, Java, React, PHP, HTML/CSS, Linux, meditation, running, cycling and powerlifting!  
 :mailbox: Feel free to contact me at jaredgoldmandev@gmail.com  
-:muscle: I'm finally building a portfolio site, check back soon!  
+:muscle: Check out my portfolio site for more!  
