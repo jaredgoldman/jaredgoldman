@@ -5,7 +5,7 @@ I'm also starting to explore native software development computer science, data 
 
 #### What I'm up to:
 
-:zap: I'm building currently building [jazzintoronto](https://jazzintoronto.ca) and (event-scraper)[https://github.com/jaredgoldman/event-scraper].  
+:zap: I'm building currently building [jazzintoronto](https://jazzintoronto.ca) and [event-scraper](https://github.com/jaredgoldman/event-scraper).  
 :computer: I have recently switched from MacOS to Arch Linux w/ i3-wm and I'm loving it!   
 :drum: I'm a [musician](https://jaredgoldmandrums.com/) and I'm obsessed with jazz, klezmer music and vintage cymbals   
 :keyboard: Ask me about TS/JS, python, Java, React, PHP, HTML/CSS, Linux, meditation, running, cycling and powerlifting!  
