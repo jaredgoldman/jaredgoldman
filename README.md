@@ -5,8 +5,7 @@ I'm also starting to explore native software development computer science, data 
 
 #### What I'm up to:
 
-:computer: I have recently switched from MacOS to Arch Linux w/ i3-wm and I'm loving it!   
-:drum: I'm a [musician](https://jared-goldman-music.netlify.app/) and I'm obsessed with jazz, klezmer music and vintage cymbals   
+:drum: I'm a [musician](https://jared-goldman-music.netlify.app/) and I'm obsessed with jazz, and vintage drums   
 :keyboard: Ask me about TS/JS, python, Java, React, PHP, HTML/CSS, Linux, meditation, running, cycling and powerlifting!  
 :mailbox: Feel free to contact me at jaredgoldmandev@gmail.com  
 :muscle: Check out [my portfolio site](https://jaredgoldman.dev) for more!  
